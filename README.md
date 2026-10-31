@@ -14,6 +14,26 @@ The platform combines deterministic analytics with AI-assisted investigation. Py
 
 The project is being developed as a portfolio project demonstrating the application of data analytics, pharmaceutical domain knowledge, and AI engineering to a commercial healthcare use case.
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](screenshots/01_executive_overview.png)
+
+### Therapeutic-Group Analysis
+![Therapeutic-Group Analysis](screenshots/02_therapeutic_group_analysis.png)
+
+### Competitor Intelligence
+![Competitor Intelligence](screenshots/03_competitor_intelligence.png)
+
+### Commercial Diagnosis
+![Commercial Diagnosis](screenshots/04_commercial_diagnosis.png)
+
+### AI Investigation
+![AI Investigation](screenshots/05_ai_investigation.png)
+
+### Top Analysis Metrics
+![Top Analysis Metrics](screenshots/00_top_analysis_metrics.png)
+
 ## Key capabilities
 
 ### Pharmaceutical market intelligence
