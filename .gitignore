@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Local databases, generated files, and archives
+chroma_db/
+*.db
+*.sqlite
+*.zip
+output.csv
+
+# Local/private source datasets
+data/
+IMS*.csv
+IMS*.xls
+IMS*.xlsx
+
+# Logs
+*.log
+
+# Test cache
+.pytest_cache/
